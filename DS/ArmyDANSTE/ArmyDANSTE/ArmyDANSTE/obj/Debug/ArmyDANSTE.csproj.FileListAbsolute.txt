@@ -1,0 +1,7 @@
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\bin\Debug\ArmyDANSTE.exe.config
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\bin\Debug\ArmyDANSTE.exe
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\bin\Debug\ArmyDANSTE.pdb
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\obj\Debug\ArmyDANSTE.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\obj\Debug\ArmyDANSTE.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\obj\Debug\ArmyDANSTE.exe
+C:\Users\danie\Desktop\DS\ArmyDANSTE\ArmyDANSTE\ArmyDANSTE\obj\Debug\ArmyDANSTE.pdb
